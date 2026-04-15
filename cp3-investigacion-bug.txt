@@ -1,0 +1,10 @@
+La línea de git blame correspondiente a restar con el bug:
+
+
+
+El comando git show <hash_del_bug> utilizado:
+
+
+
+Explicación sobre cuándo y cómo se introdujo el bug:
+El bug fue introducido en el commit b8f7c9a cuando la función restar fue modificada para restar una unidad adicional intencionadamente.
